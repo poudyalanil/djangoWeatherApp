@@ -10,4 +10,4 @@ query-string==2019.4.13
 request==2019.4.13
 requests==2.22.0
 sqlparse==0.3.0
-urllib3==1.25.7
+urllib3==1.25.8
