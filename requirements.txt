@@ -1,6 +1,6 @@
 certifi==2019.11.28
 chardet==3.0.4
-Django==2.2.20
+Django==2.2.27
 get==2019.4.13
 idna==2.8
 post==2019.4.13
